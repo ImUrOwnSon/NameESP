@@ -9,7 +9,7 @@ local function esp(p,cr)
 
     local text = Drawing.new("Text")
     text.Visible = true
-    text.Center = true
+    text.Center =  true
     text.Outline = true 
     text.Font = 2
     text.Color = Color3.fromRGB(255,255,255)
